@@ -1,6 +1,6 @@
 ---
 2.9.7:
-  SHA512: 831734890ca7f8348d44e86e3a30f77b68828adcc27b10f1c1df7b324a2ed58ea3316ca46447bcfdfa948ae7315f0280aa945f78efe067d28d786eaf3f27063f
+  SHA512: 8adfa069387a7ddb0aaf6692898fa953d07cf1b98ff28a86f356ca6a1480c5ba1ba7b708ce7d7a338ab611568c55112136375da4ffaabcc666c5f03a915eb041
   distribution: andrew-firewall
   url: https://raw.githubusercontent.com/andrew-forrest/andrew-firewall/refs/heads/main/andrew-firewall.zip
 attributes:
