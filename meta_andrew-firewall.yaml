@@ -1,10 +1,10 @@
 ---
 2.9.7:
-  SHA512: 8adfa069387a7ddb0aaf6692898fa953d07cf1b98ff28a86f356ca6a1480c5ba1ba7b708ce7d7a338ab611568c55112136375da4ffaabcc666c5f03a915eb041
+  SHA512: 3e47f9afdc4dcf8bcd40a331448e65c731c45dab42539a062aa7de5c5c20fee5aa785bba2f639fadc925046b03ce70de80511cd5b9209bd6716d4f75986f6499
   distribution: andrew-firewall
   url: https://raw.githubusercontent.com/andrew-forrest/andrew-firewall/refs/heads/main/andrew-firewall.zip
 attributes:
   description: 'Wordpress Specific Blocking'
   name: 'Andrew Firewall'
-  vendor_url: https://www.example.com/
-  report_url: https://www.example.com/report
+  vendor_url: https://github.com/andrew-forrest/andrew-firewall
+  report_url: https://github.com/andrew-forrest/andrew-firewall
